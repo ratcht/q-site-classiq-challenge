@@ -7,5 +7,4 @@ Primary Email: akirayoshiyama1@gmail.com
 Description:
 Used Grover Algorithm to solve 4x4 Sudoku.
 
-Optimized for: IBM aer \n
-Depth: 20
+Optimized for: IBM aer; Depth: 20.
