@@ -5,4 +5,7 @@ Team: Ali Al Hamadani, Maforikan Amoussou, Akira Yoshiyama
 Primary Email: akirayoshiyama1@gmail.com
 
 Description:
-Used Grover Algorithm to solve 4x4 Sudoku
+Used Grover Algorithm to solve 4x4 Sudoku.
+
+Optimized for: IBM aer
+Depth: 20
